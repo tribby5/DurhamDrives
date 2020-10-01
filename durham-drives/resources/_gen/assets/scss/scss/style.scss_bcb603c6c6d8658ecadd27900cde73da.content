@@ -4366,7 +4366,7 @@ ol {
   overflow: hidden;
   background-color: #f6f7ff;
   border-radius: 4px;
-  width: 100%;
+  width: 65%;
   display: flex;
   align-items: center;
   flex-direction: row;
@@ -4404,7 +4404,7 @@ ol {
     height: 100px; }
     @media (min-width: 576px) {
       .call svg {
-        width: 120px;
+        width: 100px;
         height: 120px; } }
 .title {
   color: #2f2f41;
@@ -4641,8 +4641,9 @@ a.feature {
   background-color: #67AAF9; }
 
 a.feature:hover {
-  background-color: #0096c7;
-  color: #f6f7ff; }
+  color: #f6f7ff;
+  background-color: #98c5fb;
+  transform: translateY(-1px); }
 
 a.feature:active {
   top: 5px;

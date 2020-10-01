@@ -29,13 +29,6 @@
       </div>
       {{ end }}
     </div>
-  </div>
-</div>
-
-
-{{if .Site.Data.features}}
-<div class="strip">
-  <div class="container pt-1 pb-6 pt-md-2 pb-md-8">
     <div class="row justify-content-center">
       {{ range .Site.Data.features }}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
@@ -47,8 +40,6 @@
     </div>
   </div>
 </div>
-{{end}}
-
 {{ end }}
 
 {{ define "footer_js" }}

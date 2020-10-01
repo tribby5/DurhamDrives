@@ -17,8 +17,9 @@ a.feature {
     background-color: $primary;
 }
 a.feature:hover   {
-    background-color: $secondary;
     color: $white-offset;
+    background-color: lighten($primary, 10%);
+    transform: translateY(-1px);
 }
 
 a.feature:active {
