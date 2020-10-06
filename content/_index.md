@@ -1,11 +1,9 @@
 ---
 title: 'Home'
-intro_image: "images/vote-driver-flip.png"
+intro_image: "images/vote-recolor-2.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
-
-# Durham Drives
 
 Organizing free rides to and from the polls both on election day and during early voting.  
 
