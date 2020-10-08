@@ -18,15 +18,26 @@ theme = "hugo-serif-theme"
     meta_description = "Providing transportation to and from the polls"
     meta_og_title = "Durham Drives"
     meta_og_type = "website"
-    meta_og_url = "https://durham-drives.netlify.app"
+    meta_og_url = "https://durhamdrives.org"
+    meta_og_image = "images/logo/mobile_logo.png"
     meta_og_description = "Durham Drives is helping to privde transportation to and from the polls"
     meta_twitter_card = "summary"
 
 [menu]
   [[menu.main]]
+    name = "How it Works"
+    url = "/how-it-works"
+      weight = 1
+
+  [[menu.main]]
     name = "COVID-19 Guidelines"
     url = "/covid"
-      weight = 1
+      weight = 2
+
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+      weight = 3
 
   # Footer Menu
   [[menu.footer]]

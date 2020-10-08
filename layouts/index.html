@@ -14,16 +14,11 @@
 {{ end }}
 
 {{ define "main" }}
-<div class="container">
-<div row justify-content-center>
-  <h3 class="construction" text-align=center>Notice: Website is still under construction - you can still sign up for early voting rides/volunteering below</h2>
-</div>
-</div>
 <div class="intro">
   <div class="container"> 
     <div class="row justify-content-start">
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
-        <img height=100px padding-bottom=50px alt="{{ .Site.Params.logo.alt }}" src="{{ .Site.Params.logo.desktop | relURL }}" />
+        <img height=100px class="main-title" alt="{{ .Site.Params.logo.alt }}" src="{{ .Site.Params.logo.desktop | relURL }}" />
         {{ .Content }}
         {{ if .Site.Params.homepage.show_call_box }}
         {{ partial "call.html" (dict "site" .Site "context" . "show_button" "true") }}
