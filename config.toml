@@ -39,6 +39,11 @@ theme = "hugo-serif-theme"
     url = "/about"
       weight = 3
 
+  [[menu.main]]
+    name = "Donate"
+    url = "https://secure.actblue.com/donate/the-david-ladley-swanson-foundaion-1"
+      weight = 4
+
   # Footer Menu
   [[menu.footer]]
     name = "Home"

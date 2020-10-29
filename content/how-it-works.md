@@ -20,7 +20,7 @@ Feel free to contact us with any questions!
 
 ### **For Volunteers**
 
-Fill out the [availability form]({{< ref "/volunteer">}} "volunteer")
+Fill out the availability form for either [Durham]({{< ref "/volunteer-durham">}} "Volunteer for Durham") or [Wake County]({{< ref "/volunteer-wake">}} "Volunteer for Wake County")
 
 We will contact you shortly to provide you with additional information and deliver free COVID-19 safety supplies. At this time we will be able to talk to you in person to answer any questions. 
 

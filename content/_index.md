@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-intro_image: "images/vote-recolor-2.png"
+intro_image: "images/intro-image-with-text.jpeg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
