@@ -20,9 +20,7 @@ Feel free to contact us with any questions!
 
 ### **For Volunteers**
 
-Fill out the availability form for either [Durham]({{< ref "/volunteer-durham">}} "Volunteer for Durham") or [Wake County]({{< ref "/volunteer-wake">}} "Volunteer for Wake County")
-
-We will contact you shortly to provide you with additional information and deliver free COVID-19 safety supplies. At this time we will be able to talk to you in person to answer any questions. 
+Fill out the availability form for [Durham]({{< ref "/volunteer-durham">}} "Volunteer for Durham") 
 
 If you have volunteered to drive, we will assign you a specific rider or riders based on your availability. Each ride may transport up to three members of the same household. We will provide you with the pick-up information and contact details for your rider(s).
 
